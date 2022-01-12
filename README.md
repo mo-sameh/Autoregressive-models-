@@ -15,11 +15,11 @@ And for the gatedPixelCNN, the main difference is replacing the Relu activation 
 ## Results:
 *PixelCNN samples:*
 
-<img src="resources/pixelCNN_shapes.png" alt="drawing" width="300"/>
+<img src="resources/pixelCNN_shapes.PNG" alt="drawing" width="300"/>
 
-<img src="resources/pixelCNN_coloredShapes.png" alt="drawing" width="300"/>
+<img src="resources/pixelCNN_coloredShapes.PNG" alt="drawing" width="300"/>
 
-<img src="resources/pixelCNN_binary_mnist.png" alt="drawing" width="300"/>
+<img src="resources/pixelCNN_binary_mnist.PNG" alt="drawing" width="300"/>
 
 
 
@@ -29,8 +29,8 @@ And for the gatedPixelCNN, the main difference is replacing the Relu activation 
 
 
 
-<img src="resources/gated_colored_shapes.png" alt="drawing" width="300"/>
+<img src="resources/gated_colored_shapes.PNG" alt="drawing" width="300"/>
 
-<img src="resources/gated_mnist_4bits.png" alt="drawing" width="300"/>
+<img src="resources/gated_mnist_4bits.PNG" alt="drawing" width="300"/>
 
-<img src="resources/colored_mnist.png" alt="drawing" width="300"/>
+<img src="resources/colored_mnist.PNG" alt="drawing" width="300"/>
